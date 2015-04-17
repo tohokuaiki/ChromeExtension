@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<twitter>
+		<account>
+			<name>読売新聞</name>
+			<id>Yomiuri_Online</id>
+		</account>
+		<account>
+			<name>NHK広報局</name>
+			<id>NHK_PR</id>
+		</account>
+	</twitter>
+</root>
