@@ -9,12 +9,12 @@
 		<account>
 			<name>NHK広報局</name>
 			<id>NHK_PR</id>
-			<url></url>
+			<url>www.nhk.or.jp</url>
 		</account>
 		<account>
 			<name>NHKニュース</name>
 			<id>nhk_news</id>
-			<url>www.nhk.or.jp</url>
+			<url>www3.nhk.or.jp</url>
 		</account>
 		<account>
 			<name>毎日新聞・デジタル編集部</name>
