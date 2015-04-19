@@ -4,10 +4,42 @@
 		<account>
 			<name>読売新聞</name>
 			<id>Yomiuri_Online</id>
+			<url>www.yomiuri.co.jp</url>
 		</account>
 		<account>
 			<name>NHK広報局</name>
 			<id>NHK_PR</id>
+			<url></url>
+		</account>
+		<account>
+			<name>NHKニュース</name>
+			<id>nhk_news</id>
+			<url>www.nhk.or.jp</url>
+		</account>
+		<account>
+			<name>毎日新聞・デジタル編集部</name>
+			<id>mainichijpedit</id>
+			<url>mainichi.jp</url>
+		</account>
+		<account>
+			<name>ITメディア ねとらぼ</name>
+			<id>itm_nlab</id>
+			<url>nlab.itmedia.co.jp</url>
+		</account>
+		<account>
+			<name>講談社コミックプラス</name>
+			<id>ComicPlus</id>
+			<url>kc.kodansha.co.jp</url>
+		</account>
+		<account>
+			<name>講談社ゲキサカ</name>
+			<id>gekisaka</id>
+			<url>web.gekisaka.jp</url>
+		</account>
+		<account>
+			<name>講談社ラノベ文庫</name>
+			<id>K_lanove_bunko</id>
+			<url>kc.kodansha.co.jp/ln</url>
 		</account>
 	</twitter>
 </root>
