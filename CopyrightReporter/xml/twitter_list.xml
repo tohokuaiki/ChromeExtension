@@ -85,6 +85,13 @@
 		</urls>
 	</account>
 	<account>
+		<name>ぐるなび</name>
+		<id>GnaviOfficial</id>
+		<urls>
+			<url>r.gnavi.co.jp/g-interview</url>
+		</urls>
+	</account>
+	<account>
 		<name>探偵ファイル</name>
 		<id>tanteitakahashi</id>
 		<urls>
