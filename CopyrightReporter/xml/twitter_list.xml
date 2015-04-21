@@ -1,45 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-	<twitter>
-		<account>
-			<name>読売新聞</name>
-			<id>Yomiuri_Online</id>
+	<account>
+		<name>読売新聞</name>
+		<id>Yomiuri_Online</id>
+		<urls>
 			<url>www.yomiuri.co.jp</url>
-		</account>
-		<account>
-			<name>NHK広報局</name>
-			<id>NHK_PR</id>
+		</urls>
+	</account>
+	<account>
+		<name>NHK広報局</name>
+		<id>NHK_PR</id>
+		<urls>
 			<url>www.nhk.or.jp</url>
-		</account>
-		<account>
-			<name>NHKニュース</name>
-			<id>nhk_news</id>
+		</urls>
+	</account>
+	<account>
+		<name>NHKニュース</name>
+		<id>nhk_news</id>
+		<urls>
 			<url>www3.nhk.or.jp</url>
-		</account>
-		<account>
-			<name>毎日新聞・デジタル編集部</name>
-			<id>mainichijpedit</id>
+		</urls>
+	</account>
+	<account>
+		<name>毎日新聞・デジタル編集部</name>
+		<id>mainichijpedit</id>
+		<urls>
 			<url>mainichi.jp</url>
-		</account>
-		<account>
-			<name>ITメディア ねとらぼ</name>
-			<id>itm_nlab</id>
+		</urls>
+	</account>
+	<account>
+		<name>ITメディア ねとらぼ</name>
+		<id>itm_nlab</id>
+		<urls>
 			<url>nlab.itmedia.co.jp</url>
-		</account>
-		<account>
-			<name>講談社コミックプラス</name>
-			<id>ComicPlus</id>
+		</urls>
+	</account>
+	<account>
+		<name>講談社コミックプラス</name>
+		<id>ComicPlus</id>
+		<urls>
 			<url>kc.kodansha.co.jp</url>
-		</account>
-		<account>
-			<name>講談社ゲキサカ</name>
-			<id>gekisaka</id>
+		</urls>
+	</account>
+	<account>
+		<name>講談社ゲキサカ</name>
+		<id>gekisaka</id>
+		<urls>
 			<url>web.gekisaka.jp</url>
-		</account>
-		<account>
-			<name>講談社ラノベ文庫</name>
-			<id>K_lanove_bunko</id>
+		</urls>
+	</account>
+	<account>
+		<name>講談社ラノベ文庫</name>
+		<id>K_lanove_bunko</id>
+		<urls>
 			<url>kc.kodansha.co.jp/ln</url>
-		</account>
-	</twitter>
+		</urls>
+	</account>
+	<account>
+		<name>オモコロ</name>
+		<id>omocoro</id>
+		<urls>
+			<url>omocoro.jp</url>
+		</urls>
+	</account>
+	<account>
+		<name>まんたんウェブ</name>
+		<id>mantanweb</id>
+		<urls>
+			<url>mantan-web.jp</url>
+		</urls>
+	</account>
+	<account>
+		<name>デイリーポータルZ編集部</name>
+		<id>dailyportalz</id>
+		<urls>
+			<url>portal.nifty.com</url>
+		</urls>
+	</account>
+	<account>
+		<name>トゥギャッチ</name>
+		<id>togech_jp</id>
+		<urls>
+			<url>togech.jp</url>
+		</urls>
+	</account>
+	<account>
+		<name>探偵ファイル</name>
+		<id>tanteitakahashi</id>
+		<urls>
+			<url>www.tanteifile.com</url>
+		</urls>
+	</account>
+	<account>
+		<name>Yahoo! JAPANカスタマーサービス</name>
+		<id>Yahoojp_CS</id>
+		<urls>
+			<url>promo.search.yahoo.co.jp/articles</url>
+			<url>news.yahoo.co.jp</url>
+			<url>games.yahoo.co.jp</url>
+		</urls>
+	</account>
 </root>
