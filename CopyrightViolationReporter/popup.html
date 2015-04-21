@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8" />
+<script src="js/jquery.min.js"></script>
+<script src="js/setting.js"></script>
+<script src="js/sha1.js"></script>
+<script src="js/oauth.js"></script>
+<script src="js/twitter.js"></script>
+<script src="js/suggest.js"></script>
+<script src="js/main.js"></script>
+<script src="js/popup.js"></script>
+<script src="js/qtip2/jquery.qtip.min.js"></script>
+<link href="css/main.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="js/qtip2/jquery.qtip.min.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="logo">
+  <img id="setup-key" src="images/setting.png" title="アプリケーションのキー設定"/>
+  <img src="images/title.png" />
+</div>
+<div id="loading">
+  <p><img src="images/loading.gif" /></p>
+</div>
+<div id="wrapper">
+  <div id="setting">
+	<p class="border">Twitterで<a href="https://apps.twitter.com/app/new" target="_blank">アプリを新規作成</a>してください。<br />
+	  アプリ作成後、[Keys and Access Tokens]のタブからConsumer Key (API Key)とConsumer Secret (API Secret)を下記に入力してください。
+	</p>
+	<h2 class="title">Consumer Key (API Key)</h2>
+	<input id="consumerKey" type="text" value="" autocomplete="off" class="input-text"/>
+	<h2 class="title">Consumer Secret (API Secret)</h2>
+	<input id="consumerSecret" type="text" value="" autocomplete="off" class="input-text"/>
+	<p class="center"><a href="#" class="btn" target="_blank" id="registerAppKey">キーを登録</a></p>
+  </div>
+  <div id="main">
+	<div id="oauth">
+	  <p class="border">下記のボタンでTwitter認証後に再度このタブを起動してください。</p>
+	  <p class="center"><a href="#" class="btn" target="_blank">Twitter認証</a></p>
+	</div>
+	<div id="onError">
+	  <p class="border">エラーが発生しました。再度Twitterの認証を行ってください。</p>
+	  <p class="center"><a href="#" class="btn" target="_blank">再認証する</a></p>
+	</div>
+	<div id="operation">
+	  <p class="sendData"><label><input type="checkbox" id="sendHistoryPermission" rel="qtip-4" qtip="オリジナル記事のURLと通知先TwitterIDの共有データベースを作成するために、あなたが通知した元ネタURLとIDの情報をこのアプリ運営に提供していただける場合はここにチェックを入れてください。<br />送信するのは元ネタURLと通知先TwitterIDのみです。あなたのTwitterIDは送信されません。"/>オリジナル記事と通知先ID情報を提供</label></p>
+	  <p class="loginAs">あなたのTwtter ID:<span></span></p>
+	  <p class="sns"><select id="sns"><option>----</option></select></p>
+	  <div id="id-selector">
+		<div class="original">
+		  <h2 class="title">オリジナル記事</h2>
+		  <input id="original-url" type="text" value="" tabindex=10 autocomplete="off" class="input-text" rel="qtip-1" qtip="元ネタのURLを入力してください。現在のウインドウが開いているタブのURLをインクリメントで候補を出します。"/>
+		  <div id="suggest-original" class="suggest" style="display:none;"></div>
+		</div>
+		<div class="twitter">
+		  <h2 class="title">通知先TwitterID <img src="images/heart_add.png" tabindex=20 id="id-popup-selector"/></h2>
+		  <input id="id-twitter" type="text" value="" tabindex=30 autocomplete="off" class="input-text" rel="qtip-2" qtip="メンションを飛ばしたい元ネタ所有者のTwitterIDを入力してください。元ネタURLに関連するIDがあれば自動補完します。無い場合は手入力してください。共有データベースに名前かIDがあればインクリメントで候補を出します。"/>
+		  <div id="suggest-twitter" class="suggest" style="display:none;"></div>
+		</div>
+	  </div>
+	  <div id="comment" class="input-text">
+		<div class="twitter">
+		  <h2 class="title">ツイート<span class="counter"></span></h2>
+		  <textarea id="text-twitter" tabindex=40 rel="qtip-3" qtip="現在閲覧しているタブを著作権違反としたツイート文を自動作成しますので調整してください。<br />URLの前後で半角スペースを入れると短縮URLの文字数でカウントします。文字数は目安です。"></textarea>
+		</div>
+	  </div>
+	  <div class="center" id="btn"><a href="#" id="doReport" class="btn" tabindex=50>通知をツイートする</a></div>
+	  <p id="help"><img src="images/help.png" title="使い方"/></p>
+	</div>
+	<div id="result" class="center">
+	  <p>通知ツイートを行いました。</p>
+	  <p><a href="#" class="btn" target="_blank">ツイートの確認</a></p>
+	</div>
+  </div>
+  <p id="hint-shortcut">起動キー: <span></span></p>
+</div>
+</body>

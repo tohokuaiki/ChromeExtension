@@ -1,0 +1,191 @@
+html{
+	height: 300px;
+}
+body {
+	min-width:250px;
+	min-height: 120px;
+	overflow-x:hidden;
+	font-size: 0.8em;
+}
+p {
+	padding: 0;
+	margin: 4px 0px;
+}
+.center{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
+.left{
+	text-align: left;
+}
+.border{
+	border: 2px solid #EFAE2B;
+	-webkit-border-radius: 5px;
+	padding: 3px;
+}
+.input-text{
+	display: block;
+	width: 98%;
+	margin: 2px 0;
+}
+div.logo{
+	text-align: center;
+	margin:0; padding:0;
+}
+div.qtip-content{
+	line-height: 1.5em;
+	font-size: 1.2em;
+}
+h2.title{
+	font-size: 14px;
+	font-weight: bold;
+	margin: 4px 0 2px 0;
+	color: #1898BD;
+}
+#setting, #main, #oauth, #onError, #operation{
+	display: none;
+}
+#help, #setup-key{
+	position: absolute;
+	cursor: pointer;
+}
+#help{
+	bottom: 2px;
+	right: 4px;
+}
+#setup-key{
+	display: none;
+	top: 4px;
+	left: 4px;
+}
+#oauth p{
+	margin-bottom: 10px;
+}
+#loading{
+	text-align: center;
+}
+#operation{
+	display:none;
+	margin-top: 4px;
+}
+#operation .original{
+	position: relative;
+}
+#operation .sendData{
+	text-align: center;
+}
+#operation .loginAs{
+	text-align: center;
+	padding-bottom: 3px;
+	border-bottom: 1px dotted #333;
+}
+#operation .loginAs span{
+	font-weight: bold;
+	padding-left: 3px;
+}
+#operation .sns{
+	text-align: center;
+	display: none; /* not implement yet */
+}
+#operation .twitter h2{
+	color: #1898BD;
+}
+#operation h2{
+	color: #848282;
+}
+#operation h2 span.counter{
+	padding-left: 2em;
+	font-size: 12px;
+	color: #333;
+}
+#operation h2 span.counter.over140{
+	font-weight: bold;
+	color: #ff0000;
+}
+#operation textarea{
+	width: 98%;
+	height: 100px;
+	text-align: left;
+}
+#onError{
+	text-align: center;
+}
+#btn{
+	text-align: center;
+	display :none;
+}
+#id-popup-selector{
+	display :none;
+	cursor: pointer;g
+}
+#success{
+	font-weight: bold;
+	color: #008740;
+}
+#error{
+	font-weight: bold;
+	color: #c40026;
+}
+.btn{
+display: inline-block;
+padding: 8px 15px;
+border: 1px solid rgb(195, 195, 195);
+border-image-source: initial;
+border-image-slice: initial;
+border-image-width: initial;
+border-image-outset: initial;
+border-image-repeat: initial;
+border-radius: 3px;
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(247, 247, 247)), to(rgb(232, 232, 232)));
+box-shadow: rgb(215, 215, 215) 0px 2px 0px;
+color: rgb(53, 50, 50);
+text-decoration: none;
+font-size: 12px;
+white-space: nowrap;
+}
+.btn:hover{
+	opacity: 0.8;
+}
+.btn:active, .btn.active{
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(30, 30, 30)), to(rgb(62, 62, 62)));
+color: rgb(255, 255, 255);
+}
+
+/**************
+ * suggest.js
+ ***************/
+.suggest {
+    position: absolute;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCFF;
+    font-size: 90%;
+    width: 95%;
+	
+}
+.suggest div {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+/* key up-down */
+.suggest div.select{
+    color: #FFFFFF;
+    background-color: #3366FF;
+}
+/* mouseover */
+.suggest div.over{
+    background-color: #99CCFF;
+}
+p.hint-shortcut{
+	padding-top: 4px;
+	text-align: center;
+	font-size:: 10px;
+}
+p.hint-shortcut span{
+	font-weight: bold;
+	font-size:: 11px;
+	color: #333;
+}
