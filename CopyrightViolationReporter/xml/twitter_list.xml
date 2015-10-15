@@ -142,14 +142,6 @@
     </urls>
   </account>
   <account>
-    <name>2chまとめサイトのまとめ</name>
-    <id>2chmtm</id>
-    <urls>
-      <url>twitter.com/2chmtm</url>
-      <url>labo.tv/2chnews</url>
-    </urls>
-  </account>
-  <account>
     <name>2chradio</name>
     <id>2chradio</id>
     <urls>
@@ -513,6 +505,8 @@
     <id>Akari_Uchida</id>
     <urls>
       <url>twitter.com/Akari_Uchida</url>
+      <url>ulabo.jp</url>
+      <url>ch.nicovideo.jp/tsundelle</url>
     </urls>
   </account>
   <account>
@@ -639,13 +633,6 @@
     <urls>
       <url>twitter.com/BIJUTSUTECHO</url>
       <url>www.bijutsu.co.jp/bt</url>
-    </urls>
-  </account>
-  <account>
-    <name>ビーパス</name>
-    <id>BP_25th</id>
-    <urls>
-      <url>twitter.com/BP_25th</url>
     </urls>
   </account>
   <account>
@@ -1172,7 +1159,7 @@
     </urls>
   </account>
   <account>
-    <name>Fenrir@ていへんぐらし</name>
+    <name>Fenrir@スカルガ新規</name>
     <id>Fenrir04281</id>
     <urls>
       <url>twitter.com/Fenrir04281</url>
@@ -1798,7 +1785,7 @@
     </urls>
   </account>
   <account>
-    <name>椛島洋介アクセルワールド！！</name>
+    <name>椛島洋介AW</name>
     <id>KABABABABA</id>
     <urls>
       <url>twitter.com/KABABABABA</url>
@@ -2695,7 +2682,6 @@
     <urls>
       <url>twitter.com/Nem_P</url>
       <url>www.nicovideo.jp/mylist/11859415</url>
-      <url>nemiu.com</url>
     </urls>
   </account>
   <account>
@@ -2739,7 +2725,7 @@
     </urls>
   </account>
   <account>
-    <name>ノースブレイン</name>
+    <name>ノースブレイン　ゲーム</name>
     <id>Northbrain7</id>
     <urls>
       <url>twitter.com/Northbrain7</url>
@@ -2771,7 +2757,7 @@
     </urls>
   </account>
   <account>
-    <name>OKWave（オウケイウェイヴ）</name>
+    <name>OKWAVE（オウケイウェイヴ）</name>
     <id>OKWave</id>
     <urls>
       <url>twitter.com/OKWave</url>
@@ -2960,8 +2946,8 @@
     <id>PocketColony</id>
     <urls>
       <url>twitter.com/PocketColony</url>
-      <url>www.pokecolo.jp</url>
-      <url>ameblo.jp/pocketcolony</url>
+      <url>blog.pokecolo.jp</url>
+      <url>blog.pokecolo.jp</url>
     </urls>
   </account>
   <account>
@@ -3021,7 +3007,7 @@
     </urls>
   </account>
   <account>
-    <name>REDALiCE@S2TBTANO*C</name>
+    <name>REDALiCE</name>
     <id>REDALiCE</id>
     <urls>
       <url>twitter.com/REDALiCE</url>
@@ -3580,7 +3566,7 @@
     <urls>
       <url>twitter.com/TBS_asachan</url>
       <url>www.tbs.co.jp/asachan</url>
-      <url>www.facebook.com/asachan.tbs</url>
+      <url>facebook.com/asachan.tbs</url>
     </urls>
   </account>
   <account>
@@ -4164,7 +4150,6 @@
     <urls>
       <url>twitter.com/Yahoo_GYAO</url>
       <url>gyao.yahoo.co.jp</url>
-      <url>yahoo.jp/Pye_Al</url>
     </urls>
   </account>
   <account>
@@ -4543,7 +4528,7 @@
     </urls>
   </account>
   <account>
-    <name>北条晶@10/4やっちゃば@卓20</name>
+    <name>北条晶@ドロップハンド（ル）</name>
     <id>akira_houjoh</id>
     <urls>
       <url>twitter.com/akira_houjoh</url>
@@ -4718,7 +4703,6 @@
       <url>twitter.com/and_k_dna</url>
       <url>dna-fact.com</url>
       <url>garakunomori.com</url>
-      <url>dnafactory.booth.pm</url>
     </urls>
   </account>
   <account>
@@ -5066,7 +5050,7 @@
     </urls>
   </account>
   <account>
-    <name>ありがみんGX</name>
+    <name>ありがみん@10/24後音13</name>
     <id>arigamin</id>
     <urls>
       <url>twitter.com/arigamin</url>
@@ -5400,7 +5384,7 @@
     </urls>
   </account>
   <account>
-    <name>真柴あずき＠ARMsは9/3～6！</name>
+    <name>真柴あずき＠ﾊｰﾌﾀｲﾑ大阪へ！</name>
     <id>azukimashiba</id>
     <urls>
       <url>twitter.com/azukimashiba</url>
@@ -5539,6 +5523,7 @@
     <urls>
       <url>twitter.com/beef_or_beef</url>
       <url>aburami.blog.jp</url>
+      <url>www.shodensha.co.jp/yt10th</url>
     </urls>
   </account>
   <account>
@@ -5917,7 +5902,7 @@
     </urls>
   </account>
   <account>
-    <name>CHANxCO</name>
+    <name>CHANxCO@スプラケット3イカ47</name>
     <id>chan_co</id>
     <urls>
       <url>twitter.com/chan_co</url>
@@ -5976,7 +5961,7 @@
     </urls>
   </account>
   <account>
-    <name>チカ@吉井誕</name>
+    <name>チカ@負けると強くなる</name>
     <id>chika0000</id>
     <urls>
       <url>twitter.com/chika0000</url>
@@ -6271,6 +6256,7 @@
     <id>coshina</id>
     <urls>
       <url>twitter.com/coshina</url>
+      <url>aokihagane.com</url>
     </urls>
   </account>
   <account>
@@ -6618,7 +6604,7 @@
     </urls>
   </account>
   <account>
-    <name>DJどぶさん☆Chelip音楽P</name>
+    <name>DJどぶさん☆生きてる</name>
     <id>dobutas</id>
     <urls>
       <url>twitter.com/dobutas</url>
@@ -6842,7 +6828,7 @@
     </urls>
   </account>
   <account>
-    <name>瀬戸弘司▶ぷーんアプリ発売中！</name>
+    <name>瀬戸弘司</name>
     <id>eguri89</id>
     <urls>
       <url>twitter.com/eguri89</url>
@@ -6987,7 +6973,7 @@
     </urls>
   </account>
   <account>
-    <name>青春の影</name>
+    <name>10/24にMOGRAでDJイベします</name>
     <id>evil07</id>
     <urls>
       <url>twitter.com/evil07</url>
@@ -7267,7 +7253,7 @@
     </urls>
   </account>
   <account>
-    <name>今野隼史@引越し直後</name>
+    <name>今野隼史@引越ししました</name>
     <id>frontierpub</id>
     <urls>
       <url>twitter.com/frontierpub</url>
@@ -7919,7 +7905,7 @@
     </urls>
   </account>
   <account>
-    <name>halyösy(ｵｼｮｲ)レンV4Xはよ</name>
+    <name>halyösy(ｵｼｮｲ)Paintër</name>
     <id>halyosy</id>
     <urls>
       <url>twitter.com/halyosy</url>
@@ -8010,7 +7996,7 @@
     </urls>
   </account>
   <account>
-    <name>ハンゲ太郎@22日ハンゲライブ最終回</name>
+    <name>ハンゲ太郎@インドに避難中</name>
     <id>hangame_taro</id>
     <urls>
       <url>twitter.com/hangame_taro</url>
@@ -8151,8 +8137,8 @@
     <id>haya2_jaxa</id>
     <urls>
       <url>twitter.com/haya2_jaxa</url>
-      <url>www.jspec.jaxa.jp/hayabusa2</url>
-      <url>fanfun.jaxa.jp/countdown/hayabusa2/index.html</url>
+      <url>www.hayabusa2.jaxa.jp</url>
+      <url>www.hayabusa2.jaxa.jp</url>
     </urls>
   </account>
   <account>
@@ -8161,7 +8147,7 @@
     <urls>
       <url>twitter.com/haydayjp</url>
       <url>supr.cl/GetHayDay</url>
-      <url>on.fb.me/1DwmPBd</url>
+      <url>supr.cl/GetHayDay</url>
     </urls>
   </account>
   <account>
@@ -8293,7 +8279,7 @@
     </urls>
   </account>
   <account>
-    <name>亜桜日奈@10/11コスエクE4</name>
+    <name>亜桜日奈@10/24台湾砲雷撃戦C22</name>
     <id>hinaasakura</id>
     <urls>
       <url>twitter.com/hinaasakura</url>
@@ -8404,7 +8390,7 @@
     </urls>
   </account>
   <account>
-    <name>昼ドラ 別れたら好きな人 第２週放送中</name>
+    <name>昼ドラ別れたら好きな人 第3週放送中</name>
     <id>hirudoraTokaitv</id>
     <urls>
       <url>twitter.com/hirudoraTokaitv</url>
@@ -8899,7 +8885,7 @@
     <urls>
       <url>twitter.com/inuningen</url>
       <url>corokkecorokke.at.webry.info</url>
-      <url>p.tl/xeOL</url>
+      <url>qq2q.biz/oztM</url>
     </urls>
   </account>
   <account>
@@ -9211,7 +9197,7 @@
     </urls>
   </account>
   <account>
-    <name>動画解放軍</name>
+    <name>商品レビュー専門 動画解放軍</name>
     <id>jihei</id>
     <urls>
       <url>twitter.com/jihei</url>
@@ -9343,13 +9329,6 @@
     </urls>
   </account>
   <account>
-    <name>伊藤潤二 </name>
-    <id>junjiOfficial</id>
-    <urls>
-      <url>twitter.com/junjiOfficial</url>
-    </urls>
-  </account>
-  <account>
     <name>神谷純</name>
     <id>junkamiya</id>
     <urls>
@@ -9358,7 +9337,7 @@
     </urls>
   </account>
   <account>
-    <name>じゅんや</name>
+    <name>純矢☆10/18練馬まつり@としまえん</name>
     <id>junya_uzawa</id>
     <urls>
       <url>twitter.com/junya_uzawa</url>
@@ -9584,7 +9563,7 @@
     </urls>
   </account>
   <account>
-    <name>葉月かなえ@15巻は10/13発売！</name>
+    <name>葉月かなえ@10/13最新15巻発売中</name>
     <id>kanaehazuki</id>
     <urls>
       <url>twitter.com/kanaehazuki</url>
@@ -9592,7 +9571,7 @@
     </urls>
   </account>
   <account>
-    <name>カナヘイ◎キディランド梅田*お店OPEN</name>
+    <name>カナヘイ◎10/28～渋谷パルコ個展</name>
     <id>kanahei_</id>
     <urls>
       <url>twitter.com/kanahei_</url>
@@ -9660,7 +9639,7 @@
     </urls>
   </account>
   <account>
-    <name>神崎裕也</name>
+    <name>神崎裕也＠ウロボロス２１巻１１／９発売</name>
     <id>kanzakiuro</id>
     <urls>
       <url>twitter.com/kanzakiuro</url>
@@ -10108,7 +10087,7 @@
     </urls>
   </account>
   <account>
-    <name>岩崎つばさ</name>
+    <name>岩崎つばさ@Tia ち30ｂ</name>
     <id>kinoko94</id>
     <urls>
       <url>twitter.com/kinoko94</url>
@@ -10132,6 +10111,7 @@
     <urls>
       <url>twitter.com/kirasuta795</url>
       <url>www.fm795.com/pc/blog/1257</url>
+      <url>bc795.tumblr.com</url>
     </urls>
   </account>
   <account>
@@ -10143,7 +10123,7 @@
     </urls>
   </account>
   <account>
-    <name>霧賀ユキ(*σ.σ)</name>
+    <name>霧賀ユキ(*σ.σ)11/15ｺﾐﾃｨｱ</name>
     <id>kiriga_yuki</id>
     <urls>
       <url>twitter.com/kiriga_yuki</url>
@@ -10535,7 +10515,7 @@
     </urls>
   </account>
   <account>
-    <name>kradness@あと14日で発売!!</name>
+    <name>kradness@あと5日で発売!!</name>
     <id>kradness55</id>
     <urls>
       <url>twitter.com/kradness55</url>
@@ -10560,7 +10540,7 @@
     </urls>
   </account>
   <account>
-    <name>クロッシュ/バスター</name>
+    <name>ビビッドマグナム・オペレーションッ！</name>
     <id>kuRossyu</id>
     <urls>
       <url>twitter.com/kuRossyu</url>
@@ -10573,6 +10553,7 @@
     <urls>
       <url>twitter.com/kubo_3260</url>
       <url>oretachi-detox.com</url>
+      <url>line.me/ti/p/%40kubo3260</url>
     </urls>
   </account>
   <account>
@@ -10830,7 +10811,7 @@
     </urls>
   </account>
   <account>
-    <name>藤城嘘( ˘ω˘)</name>
+    <name>嘘</name>
     <id>lie_</id>
     <urls>
       <url>twitter.com/lie_</url>
@@ -11296,7 +11277,7 @@
     </urls>
   </account>
   <account>
-    <name>まらしぃ</name>
+    <name>まらしぃ@The PianØ</name>
     <id>marasy8</id>
     <urls>
       <url>twitter.com/marasy8</url>
@@ -11774,7 +11755,7 @@
     </urls>
   </account>
   <account>
-    <name>黒くん@東北鷹党!!あつお！</name>
+    <name>黒くん</name>
     <id>minmin_samurai</id>
     <urls>
       <url>twitter.com/minmin_samurai</url>
@@ -11786,8 +11767,7 @@
     <urls>
       <url>twitter.com/minobetatsuhiro</url>
       <url>goo.gl/MssgsU</url>
-      <url>ch.nicovideo.jp/minobe</url>
-      <url>ch.nicovideo.jp/animepia</url>
+      <url>goo.gl/WvlWia</url>
       <url>p.tl/boFT</url>
     </urls>
   </account>
@@ -11849,7 +11829,7 @@
     </urls>
   </account>
   <account>
-    <name>青木光恵</name>
+    <name>青木光恵COMITIAひ34a</name>
     <id>mitsueaoki</id>
     <urls>
       <url>twitter.com/mitsueaoki</url>
@@ -11917,7 +11897,7 @@
     </urls>
   </account>
   <account>
-    <name>水生大海＠運命は、嘘をつく　10/9発売</name>
+    <name>水生大海＠運命は、嘘をつく　発売中</name>
     <id>mizukihiromi</id>
     <urls>
       <url>twitter.com/mizukihiromi</url>
@@ -12056,7 +12036,7 @@
     </urls>
   </account>
   <account>
-    <name>森田季節＠封神演戯２巻、９月です</name>
+    <name>森田季節は寺とラーメン屋に行く</name>
     <id>moritakisetsu</id>
     <urls>
       <url>twitter.com/moritakisetsu</url>
@@ -12392,7 +12372,7 @@
     </urls>
   </account>
   <account>
-    <name>ななひら</name>
+    <name>ななひら@秋M3 シ-01a</name>
     <id>nanahira</id>
     <urls>
       <url>twitter.com/nanahira</url>
@@ -12699,7 +12679,6 @@
     <urls>
       <url>twitter.com/news_grapevine</url>
       <url>www.grapevineonline.jp</url>
-      <url>youtu.be/rvmLwOph6rw</url>
     </urls>
   </account>
   <account>
@@ -13548,7 +13527,7 @@
     <id>otamaru</id>
     <urls>
       <url>twitter.com/otamaru</url>
-      <url>shop.moshimo.com/sweetsweets</url>
+      <url>room.rakuten.co.jp/otamaru</url>
       <url>twilog.org/otamaru</url>
     </urls>
   </account>
@@ -14361,7 +14340,8 @@
     <urls>
       <url>twitter.com/ryocoryocoryoco</url>
       <url>ryoco.net</url>
-      <url>www.hanayume.com/fukumen</url>
+      <url>nav.cx/2m4k0Fw</url>
+      <url>bit.ly/1La1KxN</url>
     </urls>
   </account>
   <account>
@@ -14961,7 +14941,7 @@
     </urls>
   </account>
   <account>
-    <name>志麻@リス♔</name>
+    <name>志麻@リス♔は25日超打ち上げ31池ハロ</name>
     <id>shima_s2</id>
     <urls>
       <url>twitter.com/shima_s2</url>
@@ -15412,7 +15392,7 @@
     </urls>
   </account>
   <account>
-    <name>スカキャン@USJ 10/10</name>
+    <name>スカキャン@19歳になりました。</name>
     <id>skullcandy989</id>
     <urls>
       <url>twitter.com/skullcandy989</url>
@@ -15990,7 +15970,7 @@
     </urls>
   </account>
   <account>
-    <name>ぼP@デレステ：365963420</name>
+    <name>ぼP@デレステ365963420</name>
     <id>ta_boP_2nd</id>
     <urls>
       <url>twitter.com/ta_boP_2nd</url>
@@ -16111,7 +16091,7 @@
     </urls>
   </account>
   <account>
-    <name>高木しげよし</name>
+    <name>高木しげよし＠それフツ③10/24発売</name>
     <id>takashigee</id>
     <urls>
       <url>twitter.com/takashigee</url>
@@ -16369,7 +16349,7 @@
     </urls>
   </account>
   <account>
-    <name>6期10/5開始！てーきゅう公式</name>
+    <name>TVアニメ「てーきゅう」公式</name>
     <id>te_kyu</id>
     <urls>
       <url>twitter.com/te_kyu</url>
@@ -16378,7 +16358,7 @@
     </urls>
   </account>
   <account>
-    <name>須賀原洋行天国ニョーボ１巻８月２８日発売</name>
+    <name>須賀原洋行『天国ニョーボ』第１巻発売中</name>
     <id>tebasakitoriri</id>
     <urls>
       <url>twitter.com/tebasakitoriri</url>
@@ -16668,7 +16648,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)10/11名古屋F15</name>
+    <name>ガルナ(オワタP)</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
@@ -16887,7 +16867,6 @@
     <urls>
       <url>twitter.com/tsujikeiko</url>
       <url>www.tsujikeiko.com</url>
-      <url>tsujikeiko.blogspot.jp/2015/01/mzn.html</url>
       <url>youtu.be/ENAN1BscHDM</url>
       <url>i.fileweb.jp/modules/ifile/?t=MjAxMUIwNzNfdHN1amlrZWlrbw==</url>
     </urls>
@@ -16921,7 +16900,7 @@
     </urls>
   </account>
   <account>
-    <name>都築 巧(たくみ)@土曜日新作</name>
+    <name>都築 巧(たくみ)@ヘルシーな生活</name>
     <id>tuduki_takumi_</id>
     <urls>
       <url>twitter.com/tuduki_takumi_</url>
@@ -17302,7 +17281,7 @@
     </urls>
   </account>
   <account>
-    <name>左京＠8/26と8/28ドラマCD発売</name>
+    <name>左京＠あふれ方１巻11月発売</name>
     <id>ukyoayane</id>
     <urls>
       <url>twitter.com/ukyoayane</url>
@@ -17421,7 +17400,7 @@
     </urls>
   </account>
   <account>
-    <name>うらたぬき♣︎うらさか日和。</name>
+    <name>うらたぬき♣︎浦島坂田船</name>
     <id>uratasama</id>
     <urls>
       <url>twitter.com/uratasama</url>
@@ -17466,7 +17445,7 @@
     </urls>
   </account>
   <account>
-    <name>臼井正己 宅スタ配信者</name>
+    <name>臼井正己 宅スタ・ふわっち配信者</name>
     <id>usuimasami</id>
     <urls>
       <url>twitter.com/usuimasami</url>
@@ -17741,7 +17720,6 @@
     <urls>
       <url>twitter.com/wcat_project</url>
       <url>colopl.co.jp/shironekoproject</url>
-      <url>colopl.co.jp/contact</url>
     </urls>
   </account>
   <account>
@@ -18052,7 +18030,7 @@
     </urls>
   </account>
   <account>
-    <name>山野りんりん@LINEスタンプ販売中</name>
+    <name>山野りんりん@コミティア「う18a」</name>
     <id>yamano_rinrin</id>
     <urls>
       <url>twitter.com/yamano_rinrin</url>
@@ -18123,7 +18101,7 @@
     </urls>
   </account>
   <account>
-    <name>ゆちゃ</name>
+    <name>ゆちゃ(深夜おじさん)</name>
     <id>ychhhh</id>
     <urls>
       <url>twitter.com/ychhhh</url>
@@ -18139,7 +18117,7 @@
     </urls>
   </account>
   <account>
-    <name>神永学公式情報＠御子柴新刊発売中！</name>
+    <name>神永学公式情報</name>
     <id>ykm_info</id>
     <urls>
       <url>twitter.com/ykm_info</url>
@@ -18229,7 +18207,7 @@
     </urls>
   </account>
   <account>
-    <name>ねこ田米蔵</name>
+    <name>ねこ田米蔵Ｊ庭ま−20a</name>
     <id>yonekozoh</id>
     <urls>
       <url>twitter.com/yonekozoh</url>
@@ -18326,7 +18304,7 @@
     </urls>
   </account>
   <account>
-    <name>ytv読売テレビマーケ公式#偽装の夫婦</name>
+    <name>ytv読売テレビマーケ#青春探偵ハルヤ</name>
     <id>ytv_marketing</id>
     <urls>
       <url>twitter.com/ytv_marketing</url>
