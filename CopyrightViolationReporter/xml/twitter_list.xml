@@ -80,8 +80,6 @@
     <urls>
       <url>twitter.com/10beichan</url>
       <url>www.g-p-sp.com</url>
-      <url>10beiblog.seesaa.net</url>
-      <url>chachablog.seesaa.net</url>
     </urls>
   </account>
   <account>
@@ -311,6 +309,7 @@
     <id>88yasushi</id>
     <urls>
       <url>twitter.com/88yasushi</url>
+      <url>blog.livedoor.jp/yasushi88goro</url>
     </urls>
   </account>
   <account>
@@ -321,6 +320,7 @@
       <url>www.nicovideo.jp/mylist/15614906</url>
       <url>twpf.jp/96__neko</url>
       <url>www.youtube.com/user/96nekoch</url>
+      <url>96neko-fanclub.com</url>
     </urls>
   </account>
   <account>
@@ -590,10 +590,11 @@
     </urls>
   </account>
   <account>
-    <name>あさげ</name>
+    <name>あさげ2日目西り24a米騒堂</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
+      <url>webcatalog-free.circle.ms/Circle/12322902</url>
     </urls>
   </account>
   <account>
@@ -902,7 +903,7 @@
     </urls>
   </account>
   <account>
-    <name>樹林伸(ドクター・ホワイト11/2発売)</name>
+    <name>樹林伸(小説ドクター・ホワイト発売中）</name>
     <id>agitadashi</id>
     <urls>
       <url>twitter.com/agitadashi</url>
@@ -945,7 +946,7 @@
     </urls>
   </account>
   <account>
-    <name>相田裕『イチゴーイチハチ!』②11/30</name>
+    <name>相田裕『イチゴーイチハチ!』②発売中</name>
     <id>aidayu02</id>
     <urls>
       <url>twitter.com/aidayu02</url>
@@ -1167,6 +1168,7 @@
     <id>flopdesign</id>
     <urls>
       <url>twitter.com/flopdesign</url>
+      <url>www.flopdesign.com</url>
       <url>www.flopdesign.com</url>
     </urls>
   </account>
@@ -1848,7 +1850,7 @@
     </urls>
   </account>
   <account>
-    <name>belne_還暦</name>
+    <name>belne_通常営業</name>
     <id>radio_be</id>
     <urls>
       <url>twitter.com/radio_be</url>
@@ -1952,7 +1954,7 @@
     </urls>
   </account>
   <account>
-    <name>死神</name>
+    <name>死神＠遙かなる旅路、さらばロリよ</name>
     <id>sinigami227</id>
     <urls>
       <url>twitter.com/sinigami227</url>
@@ -1991,7 +1993,7 @@
     </urls>
   </account>
   <account>
-    <name>猪谷干香（本人確認済）</name>
+    <name>猪谷千香＠「つながる図書館」</name>
     <id>sisiodoc</id>
     <urls>
       <url>twitter.com/sisiodoc</url>
@@ -2084,7 +2086,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)※甘さひかえめ</name>
+    <name>ガルナ(オワタP)※冬コミ3日目キ34b</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
@@ -2190,7 +2192,7 @@
     </urls>
   </account>
   <account>
-    <name>ヤマダ@単行本11月27日発売！</name>
+    <name>ヤマダ</name>
     <id>yamada_mkra</id>
     <urls>
       <url>twitter.com/yamada_mkra</url>
