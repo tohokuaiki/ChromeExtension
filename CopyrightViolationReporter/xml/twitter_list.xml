@@ -479,8 +479,8 @@
     <urls>
       <url>twitter.com/AdventureTimeJP</url>
       <url>goo.gl/hMd8XR</url>
-      <url>goo.gl/A8Ze0S</url>
       <url>bit.ly/1jvMygn</url>
+      <url>goo.gl/A8Ze0S</url>
       <url>goo.gl/1Z4IFp</url>
     </urls>
   </account>
@@ -515,9 +515,8 @@
     <urls>
       <url>twitter.com/AkinoKondoh</url>
       <url>akinokondoh.com</url>
-      <url>www.youtube.com/user/akinokondoh</url>
-      <url>www.facebook.com/akinokondoh</url>
-      <url>akinomag.exblog.jp</url>
+      <url>www.akishobo.com/akichi/kondoh</url>
+      <url>www.enterbrain.com/product/magazine/harta</url>
     </urls>
   </account>
   <account>
@@ -749,6 +748,7 @@
     <id>Junpei_Fujita</id>
     <urls>
       <url>twitter.com/Junpei_Fujita</url>
+      <url>www.ariamusic.co.jp</url>
     </urls>
   </account>
   <account>
@@ -1519,7 +1519,7 @@
     </urls>
   </account>
   <account>
-    <name>もみじ真魚＠謹賀新年</name>
+    <name>もみじ真魚＠1/31コミティアむ12a</name>
     <id>mamomiji</id>
     <urls>
       <url>twitter.com/mamomiji</url>
@@ -1541,7 +1541,7 @@
     <urls>
       <url>twitter.com/manabukoga</url>
       <url>peppergear.com</url>
-      <url>sprite.theshop.jp/items/2370710</url>
+      <url>sprite.theshop.jp</url>
     </urls>
   </account>
   <account>
@@ -2076,7 +2076,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)※修羅場中</name>
+    <name>ガルナ(オワタP)※闘会議出演</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
