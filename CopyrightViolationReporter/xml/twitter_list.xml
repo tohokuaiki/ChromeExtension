@@ -116,7 +116,7 @@
     </urls>
   </account>
   <account>
-    <name>２０%＊</name>
+    <name>はいふり録画失敗したマン</name>
     <id>20per_asterisk</id>
     <urls>
       <url>twitter.com/20per_asterisk</url>
@@ -771,7 +771,7 @@
     </urls>
   </account>
   <account>
-    <name>ROCK KIDS 802 公式</name>
+    <name>ROCK KIDS 802 【 公式 】</name>
     <id>RK802STAFF</id>
     <urls>
       <url>twitter.com/RK802STAFF</url>
@@ -1290,7 +1290,7 @@
     </urls>
   </account>
   <account>
-    <name>星崎真紀@魔法のリノベ1巻４/１６発売</name>
+    <name>星崎真紀@魔法のリノベ1巻発売中</name>
     <id>hoshizak</id>
     <urls>
       <url>twitter.com/hoshizak</url>
@@ -1531,7 +1531,7 @@
     </urls>
   </account>
   <account>
-    <name>古賀学／水中ニーソ・オーディション開催中</name>
+    <name>古賀学</name>
     <id>manabukoga</id>
     <urls>
       <url>twitter.com/manabukoga</url>
@@ -1734,7 +1734,7 @@
     <urls>
       <url>twitter.com/news23_tbs</url>
       <url>www.tbs.co.jp/news23</url>
-      <url>www.facebook.com/news23.tbstv</url>
+      <url>facebook.com/news23.tbstv</url>
     </urls>
   </account>
   <account>
@@ -1898,7 +1898,7 @@
     </urls>
   </account>
   <account>
-    <name>〆鯖のようなもの</name>
+    <name>しめさば</name>
     <id>simesarber</id>
     <urls>
       <url>twitter.com/simesarber</url>
@@ -1968,6 +1968,8 @@
     <urls>
       <url>twitter.com/sirop</url>
       <url>digianalogue.com</url>
+      <url>instagram.com/sirop</url>
+      <url>pinterest.com/sirop/pins</url>
     </urls>
   </account>
   <account>
@@ -2064,7 +2066,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)※新曲投稿しました。</name>
+    <name>ガルナ(オワタP)※超会議C08,あ10</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
