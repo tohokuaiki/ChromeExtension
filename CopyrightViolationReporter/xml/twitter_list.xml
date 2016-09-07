@@ -116,7 +116,7 @@
     </urls>
   </account>
   <account>
-    <name>ＢＦ１％＊</name>
+    <name>２０％＊</name>
     <id>20per_asterisk</id>
     <urls>
       <url>twitter.com/20per_asterisk</url>
@@ -529,7 +529,7 @@
     </urls>
   </account>
   <account>
-    <name>石田あきら＠アポクリファまおゆう新刊発売</name>
+    <name>石田あきら＠アポクリファ＆まおゆう発売中</name>
     <id>Akira_Ishida</id>
     <urls>
       <url>twitter.com/Akira_Ishida</url>
@@ -887,7 +887,6 @@
       <url>twitter.com/agitadashi</url>
       <url>d.hatena.ne.jp/seiama</url>
       <url>www.mangabox.me</url>
-      <url>epub-tw.com/27780</url>
     </urls>
   </account>
   <account>
@@ -1365,7 +1364,6 @@
     <id>hybshybs</id>
     <urls>
       <url>twitter.com/hybshybs</url>
-      <url>unsan.jp</url>
       <url>sp.ch.nicovideo.jp/underbar</url>
       <url>m.youtube.com/channel/UCAm21bybwFxjw3wb-oe-J2A</url>
       <url>lineblog.me/underbar</url>
@@ -1507,7 +1505,7 @@
     </urls>
   </account>
   <account>
-    <name>もみじ真魚＠8/21ティア-む07ab</name>
+    <name>もみじ真魚＠次は秋ティア。</name>
     <id>mamomiji</id>
     <urls>
       <url>twitter.com/mamomiji</url>
@@ -1966,7 +1964,7 @@
     </urls>
   </account>
   <account>
-    <name>猪谷千香＠「つながる図書館」</name>
+    <name>猪谷千香＠「町の未来をこの手でつくる」</name>
     <id>sisiodoc</id>
     <urls>
       <url>twitter.com/sisiodoc</url>
@@ -2060,7 +2058,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)※夜勤おじさん</name>
+    <name>ガルナ(オワタP)※公式チャンネル開設</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
