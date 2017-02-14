@@ -116,7 +116,7 @@
     </urls>
   </account>
   <account>
-    <name>ぱー</name>
+    <name>[SOLA]20per_asterisk</name>
     <id>20per_asterisk</id>
     <urls>
       <url>twitter.com/20per_asterisk</url>
@@ -177,7 +177,8 @@
     <urls>
       <url>twitter.com/40mP</url>
       <url>www.inametoru.com</url>
-      <url>www.tunecore.co.jp/artist/40mP</url>
+      <url>www.youtube.com/40meterp</url>
+      <url>www.nicovideo.jp/mylist/7975931</url>
       <url>gmail.com</url>
     </urls>
   </account>
@@ -298,7 +299,7 @@
     </urls>
   </account>
   <account>
-    <name>馬場康誌@ゴロセウム4巻2月9日発売</name>
+    <name>馬場康誌@ゴロセウム4巻発売中</name>
     <id>88yasushi</id>
     <urls>
       <url>twitter.com/88yasushi</url>
@@ -426,7 +427,7 @@
     <id>AUTOSPORT_web</id>
     <urls>
       <url>twitter.com/AUTOSPORT_web</url>
-      <url>as-web.jp</url>
+      <url>www.as-web.jp</url>
     </urls>
   </account>
   <account>
@@ -588,7 +589,7 @@
     </urls>
   </account>
   <account>
-    <name>あさの☆ひかり 海外亡命中</name>
+    <name>あさの☆ひかり</name>
     <id>Asano_HikaLi</id>
     <urls>
       <url>twitter.com/Asano_HikaLi</url>
@@ -824,6 +825,8 @@
     <id>Reuters_co_jp</id>
     <urls>
       <url>twitter.com/Reuters_co_jp</url>
+      <url>jp.reuters.com</url>
+      <url>bit.ly/1TeeabU</url>
     </urls>
   </account>
   <account>
@@ -1513,7 +1516,7 @@
     <id>mandokoro</id>
     <urls>
       <url>twitter.com/mandokoro</url>
-      <url>www.universal-music.co.jp/dj-jet-baron</url>
+      <url>mandokoro.bandcamp.com</url>
     </urls>
   </account>
   <account>
@@ -1854,7 +1857,7 @@
     </urls>
   </account>
   <account>
-    <name>島本かず彦</name>
+    <name>漫画家島本和彦</name>
     <id>simakazu</id>
     <urls>
       <url>twitter.com/simakazu</url>
@@ -1937,10 +1940,7 @@
     <id>sirop</id>
     <urls>
       <url>twitter.com/sirop</url>
-      <url>instagram.com/siropmint</url>
       <url>digianalogue.com</url>
-      <url>periscope.tv/sirop</url>
-      <url>facebook.com/sirop.works</url>
     </urls>
   </account>
   <account>
@@ -1990,8 +1990,8 @@
     <urls>
       <url>twitter.com/toiimasunomo</url>
       <url>www.amazon.co.jp/%E6%9E%A1%E9%87%8E-%E6%B5%A9%E4%B8%80/e/B004LP9Z4M</url>
-      <url>store.line.me/stickershop/author/4975/ja</url>
       <url>www.instagram.com/masunobooks</url>
+      <url>store.line.me/stickershop/author/4975/ja</url>
       <url>www.utayom.in/users/488</url>
       <url>togetter.com/li/349502</url>
       <url>note.mu/masuno/n/n5c1ed1c0c0c2</url>
@@ -2039,7 +2039,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)@闘会議2日目丸投広場</name>
+    <name>ガルナ(オワタP)@2/18絢爛ディプ</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
@@ -2063,7 +2063,7 @@
     </urls>
   </account>
   <account>
-    <name>赤髪のとも＠こそくむし</name>
+    <name>赤髪のとも</name>
     <id>tomo0723sw</id>
     <urls>
       <url>twitter.com/tomo0723sw</url>
@@ -2185,14 +2185,6 @@
     </urls>
   </account>
   <account>
-    <name>ヤメゴク ご声援いただき感謝深謝</name>
-    <id>yamegoku_tbs</id>
-    <urls>
-      <url>twitter.com/yamegoku_tbs</url>
-      <url>www.tbs.co.jp/yamegoku</url>
-    </urls>
-  </account>
-  <account>
     <name>矢野健太郎</name>
     <id>yanoja</id>
     <urls>
@@ -2205,6 +2197,7 @@
     <id>yascorn</id>
     <urls>
       <url>twitter.com/yascorn</url>
+      <url>yascorn.com</url>
       <url>ur0.link/sAe3</url>
     </urls>
   </account>
