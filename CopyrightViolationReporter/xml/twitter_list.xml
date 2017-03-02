@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <account>
-    <name>博多の素浪人 山内公平</name>
+    <name>博多の素浪人</name>
     <id>007tora</id>
     <urls>
       <url>twitter.com/007tora</url>
-      <url>www.007tora.com</url>
+      <url>007tora.blog.jp</url>
     </urls>
   </account>
   <account>
@@ -116,7 +116,7 @@
     </urls>
   </account>
   <account>
-    <name>ぱー</name>
+    <name>Nintendo ぱー Switch</name>
     <id>20per_asterisk</id>
     <urls>
       <url>twitter.com/20per_asterisk</url>
@@ -458,7 +458,7 @@
     </urls>
   </account>
   <account>
-    <name>転少女@2/25あやなごと</name>
+    <name>転少女@3/12TKTRバースデーライブ</name>
     <id>A_korosuke</id>
     <urls>
       <url>twitter.com/A_korosuke</url>
@@ -471,9 +471,10 @@
     <urls>
       <url>twitter.com/AdventureTimeJP</url>
       <url>goo.gl/hMd8XR</url>
-      <url>bit.ly/1jvMygn</url>
-      <url>goo.gl/A8Ze0S</url>
-      <url>goo.gl/1Z4IFp</url>
+      <url>cartoonnetwork.jp/c/HZaR</url>
+      <url>cartoonnetwork.jp/c/XDE4</url>
+      <url>www.cartoonnetwork.jp/c/NEsq</url>
+      <url>www.cartoonnetwork.jp/c/Ifpm</url>
     </urls>
   </account>
   <account>
@@ -1052,9 +1053,8 @@
     <id>cancamtv</id>
     <urls>
       <url>twitter.com/cancamtv</url>
-      <url>cancam.tv</url>
-      <url>content.cancam.tv/otoiawase</url>
-      <url>content.cancam.tv/otoiawase/mb</url>
+      <url>cancam.jp</url>
+      <url>www.instagram.com/cancam_official2015</url>
     </urls>
   </account>
   <account>
@@ -1263,7 +1263,7 @@
     </urls>
   </account>
   <account>
-    <name>星崎真紀@魔法のリノベ1巻発売中</name>
+    <name>星崎真紀@3/17魔法のリノベ2巻発売</name>
     <id>hoshizak</id>
     <urls>
       <url>twitter.com/hoshizak</url>
@@ -1487,7 +1487,7 @@
     </urls>
   </account>
   <account>
-    <name>もみじ真魚@2/12コミティアゆ19a</name>
+    <name>もみじ真魚@4/1グルコミ</name>
     <id>mamomiji</id>
     <urls>
       <url>twitter.com/mamomiji</url>
@@ -1520,7 +1520,7 @@
     </urls>
   </account>
   <account>
-    <name>きら 「アトリエ777④」発売中</name>
+    <name>きら 「アトリエ777⑤」発売中</name>
     <id>mangakakira</id>
     <urls>
       <url>twitter.com/mangakakira</url>
@@ -1842,7 +1842,7 @@
     </urls>
   </account>
   <account>
-    <name>高尾滋☃️マダム・プティ⑧発売中</name>
+    <name>高尾滋🐝マダム・プティ⑧発売中</name>
     <id>sigezoooo</id>
     <urls>
       <url>twitter.com/sigezoooo</url>
@@ -2039,7 +2039,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)@3/5京都ボーパラ</name>
+    <name>ガルナ(オワタP)@3/5ボーパラF19</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
@@ -2052,6 +2052,7 @@
     <urls>
       <url>twitter.com/tomikku</url>
       <url>www.youtube.com/user/jintomikku</url>
+      <url>www.instagram.com/tomikkunet</url>
     </urls>
   </account>
   <account>
