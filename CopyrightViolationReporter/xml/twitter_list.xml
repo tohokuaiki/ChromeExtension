@@ -351,7 +351,7 @@
     </urls>
   </account>
   <account>
-    <name>あいす</name>
+    <name>フィットちゃん</name>
     <id>AIce</id>
     <urls>
       <url>twitter.com/AIce</url>
@@ -1012,7 +1012,7 @@
     </urls>
   </account>
   <account>
-    <name>🦎みなみ こい🦎</name>
+    <name>🐧みなみ こい🐧</name>
     <id>c_oi</id>
     <urls>
       <url>twitter.com/c_oi</url>
@@ -1160,7 +1160,7 @@
     </urls>
   </account>
   <account>
-    <name>fmfukui</name>
+    <name>FM福井 JOLU-FM</name>
     <id>fmfukui</id>
     <urls>
       <url>twitter.com/fmfukui</url>
@@ -1231,7 +1231,8 @@
     <urls>
       <url>twitter.com/honeyee_com</url>
       <url>www.honeyee.com</url>
-      <url>honeyee.com</url>
+      <url>www.facebook.com/honeyeecom</url>
+      <url>goo.gl/ylEzxX</url>
       <url>bit.ly/2oliEn7</url>
     </urls>
   </account>
@@ -1695,7 +1696,7 @@
     <id>netnews_news</id>
     <urls>
       <url>twitter.com/netnews_news</url>
-      <url>convenience.typepad.jp/naze</url>
+      <url>nyanmaga.com</url>
     </urls>
   </account>
   <account>
@@ -1772,6 +1773,7 @@
     <id>qramo</id>
     <urls>
       <url>twitter.com/qramo</url>
+      <url>twitter.com/qramo</url>
     </urls>
   </account>
   <account>
@@ -1788,7 +1790,7 @@
     <id>qusumi</id>
     <urls>
       <url>twitter.com/qusumi</url>
-      <url>www.qusumi.com</url>
+      <url>sionss.co.jp/qusumi</url>
     </urls>
   </account>
   <account>
@@ -1966,7 +1968,7 @@
     </urls>
   </account>
   <account>
-    <name>テラゾー</name>
+    <name>テラゾー＠転載キラーマシン</name>
     <id>terazo</id>
     <urls>
       <url>twitter.com/terazo</url>
