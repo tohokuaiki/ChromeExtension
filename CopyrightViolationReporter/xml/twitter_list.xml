@@ -88,6 +88,7 @@
     <urls>
       <url>twitter.com/1101complus</url>
       <url>www.1101.com</url>
+      <url>www.1101.com/app</url>
     </urls>
   </account>
   <account>
@@ -243,7 +244,7 @@
     </urls>
   </account>
   <account>
-    <name>6面@６面ステーション</name>
+    <name>ロクちゃん@６面ステーション</name>
     <id>6men47</id>
     <urls>
       <url>twitter.com/6men47</url>
@@ -269,7 +270,7 @@
     </urls>
   </account>
   <account>
-    <name>こじま８０１＠土 東5ハ31a</name>
+    <name>こじま８０１</name>
     <id>801_CHAN</id>
     <urls>
       <url>twitter.com/801_CHAN</url>
@@ -293,7 +294,7 @@
     </urls>
   </account>
   <account>
-    <name>馬場康誌@ゴロセウム5巻8月9日発売</name>
+    <name>馬場康誌@ゴロセウム最新5巻発売中</name>
     <id>88yasushi</id>
     <urls>
       <url>twitter.com/88yasushi</url>
@@ -1410,7 +1411,7 @@
     </urls>
   </account>
   <account>
-    <name>はぁとふる売国奴(田中圭一)日東ほ03a</name>
+    <name>はぁとふる売国奴(田中圭一)@うつヌケ</name>
     <id>keiichisennsei</id>
     <urls>
       <url>twitter.com/keiichisennsei</url>
@@ -1544,7 +1545,7 @@
     </urls>
   </account>
   <account>
-    <name>まお@夏コミ 8/11東あ39a</name>
+    <name>まお</name>
     <id>maoppai</id>
     <urls>
       <url>twitter.com/maoppai</url>
@@ -1855,7 +1856,7 @@
     </urls>
   </account>
   <account>
-    <name>島本和彦 13日東7あ20aｳﾗｼﾏﾓﾄ</name>
+    <name>島本和彦</name>
     <id>simakazu</id>
     <urls>
       <url>twitter.com/simakazu</url>
