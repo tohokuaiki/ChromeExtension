@@ -87,7 +87,7 @@
     <id>1101complus</id>
     <urls>
       <url>twitter.com/1101complus</url>
-      <url>www.1101.com</url>
+      <url>www.1101.com/home.html</url>
       <url>www.1101.com/app</url>
     </urls>
   </account>
@@ -573,7 +573,7 @@
     </urls>
   </account>
   <account>
-    <name>あさげ🉐</name>
+    <name>あさげ🉐3日目東O28a</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
@@ -854,11 +854,10 @@
     </urls>
   </account>
   <account>
-    <name>サンスポコム（SANSPO.COM）公式</name>
+    <name></name>
     <id>SANSPOCOM</id>
     <urls>
       <url>twitter.com/SANSPOCOM</url>
-      <url>www.sanspo.com</url>
     </urls>
   </account>
   <account>
@@ -1008,7 +1007,7 @@
     </urls>
   </account>
   <account>
-    <name>👻みなみ こい👻</name>
+    <name>🥂みなみ こい🍾</name>
     <id>c_oi</id>
     <urls>
       <url>twitter.com/c_oi</url>
@@ -1222,7 +1221,7 @@
       <url>www.honeyee.com</url>
       <url>goo.gl/qZCwQZ</url>
       <url>goo.gl/ylEzxX</url>
-      <url>goo.gl/9eAvnQ</url>
+      <url>goo.gl/9eAvn</url>
     </urls>
   </account>
   <account>
@@ -1290,7 +1289,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん。にゃね♪</name>
+    <name>ふぐちゃん♪@11日ラキトレDJ</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1407,7 +1406,7 @@
     </urls>
   </account>
   <account>
-    <name>はぁとふる売国奴(田中圭一)@うつヌケ</name>
+    <name>はぁとふる売国奴(田中圭一)@凍結中</name>
     <id>keiichisennsei</id>
     <urls>
       <url>twitter.com/keiichisennsei</url>
@@ -1644,10 +1643,11 @@
     </urls>
   </account>
   <account>
-    <name></name>
+    <name>ねこあつめ公式</name>
     <id>nekoatsume_tw</id>
     <urls>
       <url>twitter.com/nekoatsume_tw</url>
+      <url>nekoatsume.com</url>
     </urls>
   </account>
   <account>
@@ -2030,7 +2030,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)@ボーマス弱06</name>
+    <name>ガルナ(オワタP)@12/2ゲムマ</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
