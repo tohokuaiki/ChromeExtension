@@ -854,14 +854,15 @@
     </urls>
   </account>
   <account>
-    <name></name>
+    <name>サンスポコム（SANSPO.COM）公式</name>
     <id>SANSPOCOM</id>
     <urls>
       <url>twitter.com/SANSPOCOM</url>
+      <url>www.sanspo.com</url>
     </urls>
   </account>
   <account>
-    <name>樹林伸(神の雫続編マリアージュ連載中）</name>
+    <name>樹林伸(小説・東京ワイン会ピープル発売中）</name>
     <id>agitadashi</id>
     <urls>
       <url>twitter.com/agitadashi</url>
@@ -918,7 +919,7 @@
     </urls>
   </account>
   <account>
-    <name>小島アジコ</name>
+    <name>小島アジコ@11/23文学フリマ「カー４」</name>
     <id>ajico_k</id>
     <urls>
       <url>twitter.com/ajico_k</url>
@@ -1281,7 +1282,7 @@
     </urls>
   </account>
   <account>
-    <name>はちま起稿</name>
+    <name>はちま</name>
     <id>htmk73</id>
     <urls>
       <url>twitter.com/htmk73</url>
@@ -1289,7 +1290,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん♪@11日ラキトレDJ</name>
+    <name>ふぐちゃん。 にゃね♪</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1308,7 +1309,7 @@
     </urls>
   </account>
   <account>
-    <name>Yumehisa Suzuki</name>
+    <name>SNSマーケティングストア</name>
     <id>hukugyoubiz</id>
     <urls>
       <url>twitter.com/hukugyoubiz</url>
@@ -1406,7 +1407,7 @@
     </urls>
   </account>
   <account>
-    <name>はぁとふる売国奴(田中圭一)@凍結中</name>
+    <name>はぁとふる売国奴(田中圭一)@解凍済</name>
     <id>keiichisennsei</id>
     <urls>
       <url>twitter.com/keiichisennsei</url>
@@ -1477,7 +1478,7 @@
     </urls>
   </account>
   <account>
-    <name>もみじ真魚@もぐもぐフェチ</name>
+    <name>もみじ真魚@11/23ティアせ62a</name>
     <id>mamomiji</id>
     <urls>
       <url>twitter.com/mamomiji</url>
@@ -2030,7 +2031,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)@12/2ゲムマ</name>
+    <name>ガルナ(オワタP)@12/2ゲムマH89</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
