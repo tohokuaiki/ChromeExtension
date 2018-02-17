@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <account>
-    <name>博多の素浪人　八坂　硏</name>
+    <name>博多の素浪人　山内　硏</name>
     <id>007tora</id>
     <urls>
       <url>twitter.com/007tora</url>
@@ -231,7 +231,7 @@
     <id>5mario</id>
     <urls>
       <url>twitter.com/5mario</url>
-      <url>ch.nicovideo.jp/5mario-ch</url>
+      <url>5mario.tumblr.com</url>
     </urls>
   </account>
   <account>
@@ -261,7 +261,7 @@
     </urls>
   </account>
   <account>
-    <name>TVアニメ「七つの大罪」</name>
+    <name>劇場版＆TVアニメ「七つの大罪」</name>
     <id>7_taizai</id>
     <urls>
       <url>twitter.com/7_taizai</url>
@@ -572,10 +572,11 @@
     </urls>
   </account>
   <account>
-    <name>あさげ🉐3日目東O28a</name>
+    <name>あさげ🉐</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
+      <url>shop.comiczin.jp/products/detail.php?product_id=35693</url>
     </urls>
   </account>
   <account>
@@ -1113,7 +1114,7 @@
     </urls>
   </account>
   <account>
-    <name>フロップデザイン＠フォント制作中</name>
+    <name>フロップデザイン</name>
     <id>flopdesign</id>
     <urls>
       <url>twitter.com/flopdesign</url>
@@ -1562,8 +1563,9 @@
     <id>marasy8</id>
     <urls>
       <url>twitter.com/marasy8</url>
-      <url>www.nicovideo.jp/mylist/8208046</url>
       <url>www.subcul-rise.jp/marasy</url>
+      <url>www.nicovideo.jp/mylist/8208046</url>
+      <url>www.youtube.com/channel/UCcvLSRIWJIAGFDyWtzkbiHA</url>
     </urls>
   </account>
   <account>
@@ -1959,7 +1961,7 @@
     </urls>
   </account>
   <account>
-    <name>テラゾー@シレンTA実況再開</name>
+    <name>テラゾー</name>
     <id>terazo</id>
     <urls>
       <url>twitter.com/terazo</url>
@@ -2029,7 +2031,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)@リンパ節炎</name>
+    <name>ガルナ(オワタP)@2/25京都ボーパラH18</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
