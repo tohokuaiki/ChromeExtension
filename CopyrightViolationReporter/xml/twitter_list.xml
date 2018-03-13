@@ -243,7 +243,7 @@
     </urls>
   </account>
   <account>
-    <name>6面@６面ステーション</name>
+    <name>5面@5面ステーション</name>
     <id>6men47</id>
     <urls>
       <url>twitter.com/6men47</url>
@@ -455,7 +455,7 @@
     </urls>
   </account>
   <account>
-    <name>転少女@3/3東京 3/11岐阜</name>
+    <name>転少女@3/11岐阜 5/3大阪</name>
     <id>A_korosuke</id>
     <urls>
       <url>twitter.com/A_korosuke</url>
@@ -832,6 +832,7 @@
     <urls>
       <url>twitter.com/RocketNews24</url>
       <url>rocketnews24.com</url>
+      <url>rocketnews24.com/about/socialmedia</url>
     </urls>
   </account>
   <account>
@@ -1281,7 +1282,7 @@
     </urls>
   </account>
   <account>
-    <name>はちま＠バーチャルブロガー</name>
+    <name>はちま</name>
     <id>htmk73</id>
     <urls>
       <url>twitter.com/htmk73</url>
@@ -1289,7 +1290,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん@3/3中野でらき.とれ</name>
+    <name>ふぐちゃん。にゃね♪</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1796,7 +1797,7 @@
     </urls>
   </account>
   <account>
-    <name>belne_展覧会３／6〜11迄</name>
+    <name>belne_展覧会終了有り難うございました。</name>
     <id>radio_be</id>
     <urls>
       <url>twitter.com/radio_be</url>
@@ -1912,6 +1913,7 @@
     <id>sino6</id>
     <urls>
       <url>twitter.com/sino6</url>
+      <url>yawaspi.com/oyasumi/index.html</url>
     </urls>
   </account>
   <account>
