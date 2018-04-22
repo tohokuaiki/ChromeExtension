@@ -149,14 +149,6 @@
     </urls>
   </account>
   <account>
-    <name>2ちゃんねるまとめ マニアクス</name>
-    <id>2mm_news</id>
-    <urls>
-      <url>twitter.com/2mm_news</url>
-      <url>2ch-m.info/index.php?page=click_linklog_view.daily_ranking&amp;</url>
-    </urls>
-  </account>
-  <account>
     <name>373news.com　南日本新聞</name>
     <id>373news_twit</id>
     <urls>
@@ -446,7 +438,7 @@
     </urls>
   </account>
   <account>
-    <name>転少女in台湾</name>
+    <name>転少女@超会議両日</name>
     <id>A_korosuke</id>
     <urls>
       <url>twitter.com/A_korosuke</url>
@@ -562,7 +554,7 @@
     </urls>
   </account>
   <account>
-    <name>あさげ🉐</name>
+    <name>あさげ🉑</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
@@ -844,7 +836,7 @@
     </urls>
   </account>
   <account>
-    <name>サンスポコム 公式</name>
+    <name>サンスポコム</name>
     <id>SANSPOCOM</id>
     <urls>
       <url>twitter.com/SANSPOCOM</url>
@@ -951,7 +943,7 @@
     </urls>
   </account>
   <account>
-    <name>アキバ総研</name>
+    <name>アキバ総研公式</name>
     <id>akiba_kakakucom</id>
     <urls>
       <url>twitter.com/akiba_kakakucom</url>
@@ -1280,7 +1272,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん♪4/15中野雷神こは誕</name>
+    <name>ふぐちゃん。にゃね♪</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1971,7 +1963,7 @@
       <url>twitter.com/toiimasunomo</url>
       <url>masunobooks.com</url>
       <url>www.youtube.com/user/masunomasuno</url>
-      <url>57577.thebase.in</url>
+      <url>camp-fire.jp/projects/view/36736</url>
       <url>store.line.me/stickershop/author/4975/ja</url>
     </urls>
   </account>
@@ -2017,7 +2009,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)@4/4ボカロP10周年</name>
+    <name>ガルナ(オワタP)@4/28,29超ボーマスB01,い01</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
@@ -2039,7 +2031,6 @@
     <urls>
       <url>twitter.com/tomitaakihiro</url>
       <url>hifumi-inc.co.jp</url>
-      <url>hifumi-inc.co.jp/tomita-akihiro</url>
     </urls>
   </account>
   <account>
