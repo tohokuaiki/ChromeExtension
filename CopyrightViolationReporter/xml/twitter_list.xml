@@ -82,11 +82,12 @@
     </urls>
   </account>
   <account>
-    <name>ほぼ日（生活のたのしみ展6/11まで）</name>
+    <name>ほぼ日刊イトイ新聞</name>
     <id>1101complus</id>
     <urls>
       <url>twitter.com/1101complus</url>
       <url>www.1101.com/home.html</url>
+      <url>www.1101.com/app</url>
     </urls>
   </account>
   <account>
@@ -553,7 +554,7 @@
     </urls>
   </account>
   <account>
-    <name>あさげ🉐3日目東P59a</name>
+    <name>あさげ🈹3日目東P59a</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
@@ -827,7 +828,7 @@
     </urls>
   </account>
   <account>
-    <name>濱元隆輔@5月末6月以降のお仕事募集中</name>
+    <name>濱元隆輔@7月以降のお仕事募集中</name>
     <id>RyuMoto</id>
     <urls>
       <url>twitter.com/RyuMoto</url>
@@ -997,7 +998,7 @@
     </urls>
   </account>
   <account>
-    <name>津山ちなみ:ハイスコア16巻発売中</name>
+    <name>津山ちなみ:ハイスコア17巻7/25発売予定</name>
     <id>c_tsuyama</id>
     <urls>
       <url>twitter.com/c_tsuyama</url>
@@ -1271,7 +1272,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん。にゃね♪6/10東方E.DM</name>
+    <name>ふぐちゃん。にゃね♪7/22にゃねクラ2</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1472,6 +1473,7 @@
     <urls>
       <url>twitter.com/manabukoga</url>
       <url>peppergear.com</url>
+      <url>cleargallerytokyo.com</url>
       <url>sprite.theshop.jp</url>
     </urls>
   </account>
