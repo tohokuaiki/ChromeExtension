@@ -204,7 +204,6 @@
     <id>51h</id>
     <urls>
       <url>twitter.com/51h</url>
-      <url>www.51h.in</url>
     </urls>
   </account>
   <account>
@@ -885,7 +884,7 @@
     </urls>
   </account>
   <account>
-    <name>相田裕＠次にくるマンガ大賞ノミネート中</name>
+    <name>相田裕</name>
     <id>aidayu02</id>
     <urls>
       <url>twitter.com/aidayu02</url>
@@ -996,11 +995,11 @@
     </urls>
   </account>
   <account>
-    <name>津山ちなみ:ハイスコア17巻7/25発売予定</name>
+    <name>津山ちなみ:ハイスコア17巻7/25発売</name>
     <id>c_tsuyama</id>
     <urls>
       <url>twitter.com/c_tsuyama</url>
-      <url>www.s-manga.net/book/978-4-08-867377-6.html</url>
+      <url>www.s-manga.net/cgi-bin/s-search_new.cgi?series=X-08-856135-X</url>
       <url>www.instagram.com/c_tsuyama</url>
     </urls>
   </account>
@@ -1270,7 +1269,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん。にゃね♪7/22にゃねクラ2</name>
+    <name>ふぐちゃん♪7/28中野ら.きとれ</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1286,14 +1285,6 @@
       <url>twitter.com/hukeweb</url>
       <url>www.instagram.com/ryoheihuke</url>
       <url>www.pixiv.net/member.php?id=9794</url>
-    </urls>
-  </account>
-  <account>
-    <name>SNSマーケティングストア</name>
-    <id>hukugyoubiz</id>
-    <urls>
-      <url>twitter.com/hukugyoubiz</url>
-      <url>vivivi.info</url>
     </urls>
   </account>
   <account>
@@ -1327,14 +1318,6 @@
     <id>karashichan</id>
     <urls>
       <url>twitter.com/karashichan</url>
-    </urls>
-  </account>
-  <account>
-    <name>KAZUYA</name>
-    <id>kazuyahkd</id>
-    <urls>
-      <url>twitter.com/kazuyahkd</url>
-      <url>www.youtube.com/user/kazuyahkd</url>
     </urls>
   </account>
   <account>
