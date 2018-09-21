@@ -260,7 +260,7 @@
     </urls>
   </account>
   <account>
-    <name>こじま８０１(仮)</name>
+    <name>こじま８０１(蝉)</name>
     <id>801_CHAN</id>
     <urls>
       <url>twitter.com/801_CHAN</url>
@@ -1222,7 +1222,7 @@
     </urls>
   </account>
   <account>
-    <name>星崎真紀@9/14魔法のリノベ④</name>
+    <name>星崎真紀@魔法のリノベ④</name>
     <id>hoshizak</id>
     <urls>
       <url>twitter.com/hoshizak</url>
@@ -1261,7 +1261,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん♪9/15中野らき☆とれ</name>
+    <name>ふぐちゃん。にゃね♪</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1820,7 +1820,7 @@
     </urls>
   </account>
   <account>
-    <name>NQ〆鯖</name>
+    <name>〆鯖🐟🐟🐟</name>
     <id>simesarber</id>
     <urls>
       <url>twitter.com/simesarber</url>
@@ -1934,14 +1934,12 @@
     </urls>
   </account>
   <account>
-    <name>歌人 枡野浩一 公式</name>
+    <name>歌人 枡野浩一</name>
     <id>toiimasunomo</id>
     <urls>
       <url>twitter.com/toiimasunomo</url>
       <url>masunobooks.com</url>
-      <url>www.youtube.com/user/masunomasuno</url>
-      <url>camp-fire.jp/projects/view/36736</url>
-      <url>store.line.me/stickershop/author/4975/ja</url>
+      <url>note.mu/masuno</url>
     </urls>
   </account>
   <account>
