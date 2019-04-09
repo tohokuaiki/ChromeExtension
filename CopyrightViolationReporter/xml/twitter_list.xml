@@ -82,7 +82,7 @@
     </urls>
   </account>
   <account>
-    <name>ほぼ日刊イトイ新聞</name>
+    <name>ほぼ日（４月17日〜21日は丸の内で「生活のたのしみ展」）</name>
     <id>1101complus</id>
     <urls>
       <url>twitter.com/1101complus</url>
@@ -217,7 +217,7 @@
     </urls>
   </account>
   <account>
-    <name>犬</name>
+    <name>狂犬病マリオ</name>
     <id>5mario</id>
     <urls>
       <url>twitter.com/5mario</url>
@@ -539,7 +539,7 @@
     </urls>
   </account>
   <account>
-    <name>綾野GO NEWS🎸</name>
+    <name>綾野剛 NEWS🎸</name>
     <id>Antaeus_ayn</id>
     <urls>
       <url>twitter.com/Antaeus_ayn</url>
@@ -554,7 +554,7 @@
     </urls>
   </account>
   <account>
-    <name>ひるげ</name>
+    <name>あさげ📛</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
@@ -1079,7 +1079,7 @@
     </urls>
   </account>
   <account>
-    <name>フロップデザイン⌘平成最後のフォント参加者募集中</name>
+    <name>フロップデザイン⌘フォントの日</name>
     <id>flopdesign</id>
     <urls>
       <url>twitter.com/flopdesign</url>
@@ -1302,7 +1302,7 @@
     <id>kbc_duomo</id>
     <urls>
       <url>twitter.com/kbc_duomo</url>
-      <url>www.kbc.co.jp/tv/duomo</url>
+      <url>kbc.co.jp/duomo</url>
     </urls>
   </account>
   <account>
@@ -1322,14 +1322,6 @@
     </urls>
   </account>
   <account>
-    <name>警部補・杉山真太郎～吉祥寺署事件ファイル</name>
-    <id>keibuhoshintaro</id>
-    <urls>
-      <url>twitter.com/keibuhoshintaro</url>
-      <url>www.tbs.co.jp/keibuho2015</url>
-    </urls>
-  </account>
-  <account>
     <name>KEI</name>
     <id>keigarou</id>
     <urls>
@@ -1346,7 +1338,7 @@
     </urls>
   </account>
   <account>
-    <name>はぁとふる倍国土</name>
+    <name>はぁとふる倍国土『若ゲのいたり』発売中</name>
     <id>keiichisennsei</id>
     <urls>
       <url>twitter.com/keiichisennsei</url>
@@ -1944,7 +1936,7 @@
     </urls>
   </account>
   <account>
-    <name>ガルナ(オワタP)@かふんしょ</name>
+    <name>ガルナ(オワタP)@超会議ボーマスA26</name>
     <id>tomatowt</id>
     <urls>
       <url>twitter.com/tomatowt</url>
