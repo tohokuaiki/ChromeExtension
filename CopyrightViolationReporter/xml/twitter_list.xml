@@ -314,7 +314,7 @@
     <urls>
       <url>twitter.com/AERAnetjp</url>
       <url>dot.asahi.com</url>
-      <url>www.facebook.com/aeranet</url>
+      <url>publications.asahi.com/ecs/detail/?item_id=21015</url>
     </urls>
   </account>
   <account>
@@ -552,7 +552,7 @@
     </urls>
   </account>
   <account>
-    <name>あさげ📛</name>
+    <name>あさげ📛おも同バザール大崎8/11</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
@@ -605,7 +605,6 @@
     <urls>
       <url>twitter.com/Isseki3</url>
       <url>www.landerblue.co.jp/blog</url>
-      <url>thechip.in/fanclubs/1046</url>
     </urls>
   </account>
   <account>
@@ -968,7 +967,7 @@
     </urls>
   </account>
   <account>
-    <name>津山ちなみ:ハイスコア17巻発売中</name>
+    <name>津山ちなみ:ハイスコア最新18巻準備中</name>
     <id>c_tsuyama</id>
     <urls>
       <url>twitter.com/c_tsuyama</url>
@@ -1234,7 +1233,7 @@
     </urls>
   </account>
   <account>
-    <name>ふぐちゃん。にゃね♪🍿🌻</name>
+    <name>ふぐちゃん♪7/14はメテのタイ🍿🌻</name>
     <id>hugta</id>
     <urls>
       <url>twitter.com/hugta</url>
@@ -1602,9 +1601,8 @@
     <id>news23_tbs</id>
     <urls>
       <url>twitter.com/news23_tbs</url>
-      <url>www.tbs.co.jp/news23</url>
       <url>note.mu/news23</url>
-      <url>facebook.com/news23.tbstv</url>
+      <url>www.facebook.com/tbsnews</url>
     </urls>
   </account>
   <account>
@@ -1959,7 +1957,7 @@
     </urls>
   </account>
   <account>
-    <name>金巻ともこ@小説KHIII vol.1 3/28発売！</name>
+    <name>金巻ともこ@小説KHIII vol.2 7/25発売！</name>
     <id>tomoco</id>
     <urls>
       <url>twitter.com/tomoco</url>
@@ -1996,6 +1994,7 @@
     <urls>
       <url>twitter.com/tvasahi_golf</url>
       <url>www.tv-asahi.co.jp/golf/#/?category=sports</url>
+      <url>www.instagram.com/tvasahigolf.official</url>
     </urls>
   </account>
   <account>
@@ -2015,7 +2014,7 @@
     </urls>
   </account>
   <account>
-    <name>岩崎 拓哉@夕景・夜景撮影の教科書</name>
+    <name>岩崎 拓哉@クリエイターの著作権トラブル解決本</name>
     <id>yakeiphoto</id>
     <urls>
       <url>twitter.com/yakeiphoto</url>
