@@ -314,7 +314,7 @@
     <urls>
       <url>twitter.com/AERAnetjp</url>
       <url>dot.asahi.com/aera</url>
-      <url>publications.asahi.com/ecs/detail/?item_id=21230</url>
+      <url>publications.asahi.com/ecs/detail/?item_id=21258</url>
     </urls>
   </account>
   <account>
@@ -371,6 +371,8 @@
     <urls>
       <url>twitter.com/ANA_flight_info</url>
       <url>www.ana.co.jp</url>
+      <url>ana.ms/vF7cl0</url>
+      <url>ana.ms/u5ohkC</url>
     </urls>
   </account>
   <account>
@@ -436,7 +438,7 @@
     </urls>
   </account>
   <account>
-    <name>転少女@9/22、10/26</name>
+    <name>転少女@9/22、10/12、10/26</name>
     <id>A_korosuke</id>
     <urls>
       <url>twitter.com/A_korosuke</url>
@@ -498,7 +500,7 @@
     </urls>
   </account>
   <account>
-    <name>石田あきら＠金曜 西れ-54a</name>
+    <name>石田あきら＠Fateアポクリファ連載中</name>
     <id>Akira_Ishida</id>
     <urls>
       <url>twitter.com/Akira_Ishida</url>
@@ -1264,7 +1266,7 @@
     <id>hyakutanaoki</id>
     <urls>
       <url>twitter.com/hyakutanaoki</url>
-      <url>ch.nicovideo.jp/hyakuta</url>
+      <url>bit.ly/2NgL6pg</url>
     </urls>
   </account>
   <account>
@@ -1326,7 +1328,7 @@
     </urls>
   </account>
   <account>
-    <name>はぁとふる倍国土＠夏コミ（日）西A74a</name>
+    <name>はぁとふる倍国土＠若ゲのいたり発売中</name>
     <id>keiichisennsei</id>
     <urls>
       <url>twitter.com/keiichisennsei</url>
@@ -1421,6 +1423,7 @@
     <urls>
       <url>twitter.com/mandokoro</url>
       <url>www.mandoko.ro</url>
+      <url>extroom.studio/rooms/acidpandagakuen</url>
     </urls>
   </account>
   <account>
@@ -1598,12 +1601,13 @@
     </urls>
   </account>
   <account>
-    <name>news23</name>
+    <name>NEWS23</name>
     <id>news23_tbs</id>
     <urls>
       <url>twitter.com/news23_tbs</url>
-      <url>note.mu/news23</url>
       <url>www.facebook.com/tbsnews</url>
+      <url>instagram.com/tbsnews_insta?igshid=1994cjy7qncc</url>
+      <url>note.mu/news23</url>
     </urls>
   </account>
   <account>
@@ -1881,7 +1885,7 @@
     </urls>
   </account>
   <account>
-    <name>歌人 枡野浩一</name>
+    <name>歌人 枡野浩一『みんなふつうで、みんなへん。』毎日新聞大阪版連載中</name>
     <id>toiimasunomo</id>
     <urls>
       <url>twitter.com/toiimasunomo</url>
