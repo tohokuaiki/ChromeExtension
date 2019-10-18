@@ -313,7 +313,7 @@
     <urls>
       <url>twitter.com/AERAnetjp</url>
       <url>dot.asahi.com/aera</url>
-      <url>publications.asahi.com/ecs/detail/?item_id=21422</url>
+      <url>publications.asahi.com/ecs/detail/?item_id=21432</url>
     </urls>
   </account>
   <account>
@@ -437,7 +437,7 @@
     </urls>
   </account>
   <account>
-    <name>転少女@10/12、10/26</name>
+    <name>転少女@10/26サブカルソング</name>
     <id>A_korosuke</id>
     <urls>
       <url>twitter.com/A_korosuke</url>
@@ -552,7 +552,7 @@
     </urls>
   </account>
   <account>
-    <name>あさげ📛10/3〜カザフ、キルギス、ウズベク</name>
+    <name>あさげ📛</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
@@ -1252,7 +1252,7 @@
     </urls>
   </account>
   <account>
-    <name>島田　フミカネ</name>
+    <name>島田フミカネ　画集島田フミカネ ART WORKS II　2020.2月発売です</name>
     <id>humikane</id>
     <urls>
       <url>twitter.com/humikane</url>
@@ -1695,7 +1695,7 @@
     </urls>
   </account>
   <account>
-    <name>belne公式10/6Jガーデンし-11ab</name>
+    <name>belne公式</name>
     <id>radio_be</id>
     <urls>
       <url>twitter.com/radio_be</url>
@@ -1913,7 +1913,8 @@
     <urls>
       <url>twitter.com/tokyofm</url>
       <url>www.tfm.co.jp</url>
-      <url>tfm.jp/listen</url>
+      <url>tfm.co.jp/listen</url>
+      <url>park.gsj.mobi</url>
     </urls>
   </account>
   <account>
