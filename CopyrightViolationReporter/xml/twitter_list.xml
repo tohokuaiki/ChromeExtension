@@ -257,7 +257,7 @@
     </urls>
   </account>
   <account>
-    <name>こじま(蝉)</name>
+    <name>こじまの墓</name>
     <id>801_CHAN</id>
     <urls>
       <url>twitter.com/801_CHAN</url>
@@ -292,7 +292,7 @@
     <id>96__neko</id>
     <urls>
       <url>twitter.com/96__neko</url>
-      <url>96neko.jp</url>
+      <url>twpf.jp/96__neko</url>
       <url>goo.gl/xSKXtj</url>
       <url>goo.gl/h2QKv2</url>
       <url>goo.gl/PlKZjj</url>
@@ -313,7 +313,7 @@
     <urls>
       <url>twitter.com/AERAnetjp</url>
       <url>dot.asahi.com/aera</url>
-      <url>publications.asahi.com/ecs/detail/?item_id=21466</url>
+      <url>publications.asahi.com/ecs/detail/?item_id=21503</url>
     </urls>
   </account>
   <account>
@@ -552,7 +552,7 @@
     </urls>
   </account>
   <account>
-    <name>あさげ📛11/3おも同バザール神保町</name>
+    <name>あさげ📛C97</name>
     <id>Asage</id>
     <urls>
       <url>twitter.com/Asage</url>
@@ -972,7 +972,8 @@
     <urls>
       <url>twitter.com/c_tsuyama</url>
       <url>www.s-manga.net/cgi-bin/s-search_new.cgi?series=X-08-856135-X</url>
-      <url>www.instagram.com/c_tsuyama</url>
+      <url>instagram.com/c_tsuyama</url>
+      <url>manga-mee.jp</url>
     </urls>
   </account>
   <account>
@@ -1115,6 +1116,7 @@
     <urls>
       <url>twitter.com/fmjaga</url>
       <url>www.jaga.fm</url>
+      <url>listenradio.jp</url>
     </urls>
   </account>
   <account>
@@ -1389,7 +1391,7 @@
     </urls>
   </account>
   <account>
-    <name>もみじ真魚@毎日ごはん絵更新</name>
+    <name>もみじ真魚@11/24(日)COMITIA130 ・ぬ21b</name>
     <id>mamomiji</id>
     <urls>
       <url>twitter.com/mamomiji</url>
